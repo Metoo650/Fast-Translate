@@ -9,8 +9,10 @@
 
 text = "Hello World!"
 #A text to be translated
+
 language = "om"
 #oromic language. you can use any other languages
+
 translate = Translator(text, language)
 
 </p>
