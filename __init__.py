@@ -1,0 +1,1 @@
+from FastTranslate import Translator 
