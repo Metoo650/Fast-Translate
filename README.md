@@ -5,7 +5,8 @@
 <h1>How To Use</h1>
 <h3>Example</h3>
 
-<p>from FastTranslate import Translator
+```
+from FastTranslate import Translator
 
 text = "Hello World!"
 #A text to be translated
@@ -15,7 +16,9 @@ language = "om"
 
 translate = Translator(text, language)
 
-</p>
+print(translate)
+
+```
 
 <h3>Follow Us On Telegram</h3>
 <p>https://t.me/Neuralg</p>
